@@ -1,0 +1,19 @@
+{
+    "blog": [
+        {
+            "id": 1,
+            "title": "Google",
+            "body": "Dear FreeBitco.in User, You are receiving this email because"
+        },
+        {
+            "id": 2,
+            "title": "Facebook",
+            "body": "Dear FreeBitco.in User, You are receiving this email because"
+        },
+        {
+            "id": 3,
+            "title": "Twitter",
+            "body": "Dear FreeBitco.in User, You are receiving this email because"
+        }
+    ]
+}

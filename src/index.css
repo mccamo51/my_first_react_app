@@ -13,6 +13,19 @@
   font-size: medium;
 }
 
+.home .blog_id h1{
+  font-weight: 700;
+  color: #f1356d;
+  margin-bottom: 0px;
+}
+
+/* .blog_id:hover{
+  box-shadow: 1px 1px 2px rgb(105, 105, 105);
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-top: 1px;
+} */
+
 .navbar h1 span{
   color: #f1356d;
   font-weight: 500;
